@@ -25,7 +25,7 @@
 
 	</dependencies>
 	
-	<distributonManagement>
+	<distributionManagement>
 		 <snaphotRepository>
 		    <id>nexusRepo</id>
 		    <url>http://13.115.27.72:8081/repository/sample-snapshots/</url>
